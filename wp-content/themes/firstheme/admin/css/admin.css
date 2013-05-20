@@ -1,0 +1,13 @@
+a, a:link, a:visited, a:hover {
+ color:#000;
+}
+.twitter {
+ display:table-cell; vertical-align:middle;
+ float:left;
+ width:250px;
+}
+#accordion .info {
+    border: 1px solid #EFEFEF;
+    float: right;
+    padding: 20px;
+}
